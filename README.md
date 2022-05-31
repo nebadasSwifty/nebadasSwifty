@@ -4,11 +4,10 @@ Hi 👋   My name is Kirill Sutormin
 iOS Developer
 -------------
 
-I'm learning Swift from February 2022
+I'm learning Swift from August 2021
 
 *   🌍  I'm based in Ekaterinburg
 *   ✉️  You can contact me at [My Email](mailto:kirill.sutormin@gmail.com)
-*   🧠  I'm learning now Swift UIKit
 
 ### Skills
 
