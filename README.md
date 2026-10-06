@@ -1,6 +1,3 @@
-Hi 👋   My name is Kirill Sutormin
-================================
-
 iOS Developer
 -------------
 
